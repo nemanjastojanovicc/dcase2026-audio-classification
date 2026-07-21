@@ -1,0 +1,3 @@
+dataset,mode,accuracy_mean,accuracy_std,macro_accuracy_mean,macro_accuracy_std,hierarchical_accuracy_mean,hierarchical_accuracy_std,hierarchical_f1_mean,hierarchical_f1_std,folds
+BSD10k-confidence-ge4,audio,85.62,1.04,75.79,2.01,81.21,1.53,80.06,3.02,5
+BSD10k-confidence-ge4,both,87.86,0.38,79.64,0.73,83.86,0.63,83.01,0.47,5

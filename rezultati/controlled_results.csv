@@ -1,0 +1,7 @@
+variant,mode,accuracy,top_accuracy,macro_accuracy,macro_top_accuracy,hierarchical_accuracy,hierarchical_precision,hierarchical_recall,hierarchical_f1,test_examples
+full,audio,78.19,88.50,72.18,84.03,78.10,77.37,76.62,76.83,2192
+full,both,80.98,89.83,75.82,86.26,81.04,80.19,79.73,79.78,2192
+confidence_ge4,audio,78.01,88.37,71.17,84.19,77.68,76.96,76.06,75.91,2192
+confidence_ge4,both,78.88,88.59,72.69,85.12,78.91,77.52,77.35,77.11,2192
+random_matched,audio,76.19,87.04,66.57,80.40,73.48,74.87,71.76,71.95,2192
+random_matched,both,80.16,89.42,73.44,84.69,79.06,78.31,77.66,77.63,2192

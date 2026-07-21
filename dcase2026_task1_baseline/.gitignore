@@ -1,5 +1,6 @@
 **/__pycache__/
 .venv/
-model*
+model_output*/
+*.pth
 data/*
 !data/bst_colours.json

@@ -3,8 +3,6 @@
 **/.venv/
 .DS_Store
 
-dcase2026_task1_baseline/.git/
-
 dcase2026_task1_baseline/data/BSD*/
 dcase2026_task1_baseline/data/*.csv
 dcase2026_task1_baseline/data/class_dict.json
