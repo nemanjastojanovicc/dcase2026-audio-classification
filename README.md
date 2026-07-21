@@ -6,7 +6,7 @@ Detaljan opis postupka i rezultata nalazi se u [`izvestaj.ipynb`](izvestaj.ipynb
 
 ## Pokretanje
 
-Potrebni su Python 3 i skup [BSD10k-v1.2](https://zenodo.org/records/17233904), koji treba raspakovati u `dcase2026_task1_baseline/data/BSD10k-v1.2/`.
+Potrebni su Python 3 i skup [BSD10k-v1.2](https://zenodo.org/records/17233904).
 
 ```bash
 cd dcase2026_task1_baseline
